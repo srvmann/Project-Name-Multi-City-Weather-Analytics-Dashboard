@@ -136,3 +136,5 @@ API performance optimization
 For questions, suggestions, or collaboration opportunities, please reach out!
 
 This project demonstrates expertise in Power BI development, API integration, data modeling, and advanced analytics visualization.
+
+snapshot of dashboard -- https://github.com/srvmann/Project-Name-Multi-City-Weather-Analytics-Dashboard/blob/main/Dashboard-Snapshot.png
